@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/hala21/rust-test.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/hala21/learning-cxx.git
